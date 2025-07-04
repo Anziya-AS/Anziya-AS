@@ -1,6 +1,6 @@
 # 👩‍💻 Anziya A S
 
-🎯 Data Analyst | SQL | Power BI | Excel | Python | Tableau  
+🔍 Data Analyst | 💻 Software Engineer | 📊 BI Developer | Excel | Python | Tableau | SQL 
 📍 Kerala, India | Open to Relocation & On-Site Roles  
 📫 anziyaanzarr90@gmail.com | 📞 9567857339  
 
@@ -12,6 +12,11 @@ I'm a results-driven data analyst skilled in transforming complex data into acti
 ---
 
 ## 📊 Featured Projects
+### 🌆 Smart City Analysis  
+Analyzed smart city development data to evaluate infrastructure, citizen engagement, and service efficiency.  
+- Used tools like **Python (Pandas, Seaborn)** and **Power BI** for visualization  
+- Identified gaps in urban mobility, waste management, and digital connectivity  
+- Built an interactive dashboard highlighting KPIs for decision-makers
 
 ### 🔹 Online Retail Dashboard
 - **Tools**: Power BI, DAX, Power Query  
