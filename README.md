@@ -2,7 +2,7 @@
 
 🔍 💻 Software Engineer | Data Analyst | 📊 BI Developer | Excel | Python | Tableau | SQL 
 📍 Kerala, India | Open to Relocation & On-Site Roles  
-📫 anziyaanzarr90@gmail.com | 📞 9567857339  
+📫 anziya.a.s.official@gmail.com | 📞 9567857339  
 
 ---
 
@@ -60,6 +60,6 @@ Tools: **Power BI**, **Excel**, **Survey Dataset**
 
 Feel free to reach out for opportunities, collaborations, or freelance work!
 
-- 📧 anziyaanzarr90@gmail.com  
+- 📧 anziya.a.s.official@gmail.com  
 - 🌍 [GitHub](https://github.com/Anziya-AS)  
 
