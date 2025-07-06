@@ -34,7 +34,11 @@ Analyzed smart city development data to evaluate infrastructure, citizen engagem
 - Enabled performance monitoring and streamlined department workflows.
 
 ---
-
+### ✈️ Airline Customer Satisfaction Dashboard  
+Tools: **Power BI**, **Excel**, **Survey Dataset**  
+- ✈️ Analyzed satisfaction vs. delay, inflight service, trip type, and class  
+- 📊 Built KPIs for inflight experience, class-wise satisfaction, and delay trends  
+---
 ## 🧠 Skills
 - **BI Tools**: Power BI, Tableau, QlikView  
 - **Databases**: SQL (MySQL, Joins, Subqueries)  
@@ -52,7 +56,10 @@ Analyzed smart city development data to evaluate infrastructure, citizen engagem
 - 🏆 **Jobaaj Learnings** – Tableau Workshop
 
 ---
+## 📫 Let's Connect
 
-## 📫 Connect With Me
-- ✉️ Email: anziyaanzarr90@gmail.com  
- - 📁 GitHub Projects: Coming soon...
+Feel free to reach out for opportunities, collaborations, or freelance work!
+
+- 📧 anziyaanzarr90@gmail.com  
+- 🌍 [GitHub](https://github.com/Anziya-AS)  
+
